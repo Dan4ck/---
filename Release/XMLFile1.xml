@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Employee>
+	<name>Бойко Анна Вікторівна</name>
+		<Age>25</Age>
+		<Profession>Тренер</Profession>
+		<Programmer>True</Programmer>
+		
+		<Specialization>
+			1.Корекція осанки та зміцнення м'язів спини
+			2.Йога і пілатес: покращення гнучкості, рівноваги та психоемоційного благополуччя
+			3.Індивідуальні тренування для жінок: робота з проблемними зонами та корекція фігури
+		</Specialization>
+		<Schedule>
+			<DayOfWeek>
+				<Day>Понеділок</Day>
+				<StartTime>08:00-</StartTime>
+				<EndTime>12:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>Четвер</Day>
+				<StartTime> 14:00-</StartTime>
+				<EndTime>18:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>Субота</Day>
+				<StartTime> 10:00-</StartTime>
+				<EndTime>16:00 </EndTime>
+			</DayOfWeek>
+		</Schedule>
+		<Price>
+			<Session>500</Session>
+			
+		</Price>
+	</Employee>
+	<Employee>
+		<name>Ковальчук Дмитро Сергійович</name>
+		<Age>28</Age>
+		<Programmer>True</Programmer>
+		<Profession>Тренер</Profession>
+		<Specialization>
+			1.Програми HIIT: спалювання жиру та поліпшення загальної фізичної форми
+			2.Індивідуальні плани харчування та тренувань: досягнення оптимальних результатів
+			3.Тренування боксу та єдиноборств: підвищення фізичної витривалості та навичок захисту
+		</Specialization>
+		<Schedule>
+			<DayOfWeek>
+				<Day>Вівторок</Day>
+				<StartTime> 09:00-</StartTime>
+				<EndTime>13:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>Четвер</Day>
+				<StartTime> 15:00-</StartTime>
+				<EndTime>19:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>Субота</Day>
+				<StartTime> 11:00-</StartTime>
+				<EndTime>17:00 </EndTime>
+			</DayOfWeek>
+		</Schedule>
+		<Price>
+			<Session>450</Session>
+			
+		</Price>
+	</Employee>
+	<Employee>
+		<name>Ткаченко Олександр Миколайович</name>
+		<Age>21</Age>
+		<Programmer>True</Programmer>
+		<Profession>Лікар</Profession>
+		<Specialization>
+			1.Корекція осанки та проблем м'язів і суглобів: робота з осанкою та м'язами.
+			2.Фізіотерапія та реабілітація після травм: відновлення після травм та масаж.
+			3.Медична консультація та фізичний стан: оцінка здоров'я та розробка тренувальних планів.
+		</Specialization>
+		<Schedule>
+			<DayOfWeek>
+				<Day>Понеділок</Day>
+				<StartTime> 10:00-</StartTime>
+				<EndTime>14:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>Середа</Day>
+				<StartTime> 12:00-</StartTime>
+				<EndTime>16:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>П'ятниця</Day>
+				<StartTime> 13:00-</StartTime>
+				<EndTime>19:00 </EndTime>
+			</DayOfWeek>
+		</Schedule>
+		<Price>
+			<Session>600</Session>
+		
+		</Price>
+	</Employee>
+	<Employee>
+		<name>Шевченко Олег Ігорович</name> 
+		<Age>33</Age>
+		<Programmer>True</Programmer>
+		<Profession>Тренер</Profession>
+		<Specialization>
+			1.Силові тренування: збільшення м'язової маси
+			2.Функціональний тренінг: підвищення витривалості та гнучкості
+			3.Індивідуальна робота з клієнтами: досягнення конкретних цілей
+		</Specialization>
+		<Schedule>
+			<DayOfWeek>
+				<Day>Понеділок</Day>
+				<StartTime> 09:00-</StartTime>
+				<EndTime>13:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>Середа</Day>
+				<StartTime> 10:00-</StartTime>
+				<EndTime>14:00 </EndTime>
+			</DayOfWeek>
+			<DayOfWeek>
+				<Day>П'ятниця</Day>
+				<StartTime> 12:00-</StartTime>
+				<EndTime>18:00 </EndTime>
+			</DayOfWeek>
+		</Schedule>
+		<Price>
+			
+			<TherapySession>800</TherapySession>
+		</Price>
+	</Employee>
+</root>
